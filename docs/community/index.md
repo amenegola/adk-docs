@@ -252,6 +252,16 @@ playlist](https://www.youtube.com/playlist?list=PLwi6PfxEP7zZbBPmWiZ8QbPcuKyAY5R
       <p>Discover and test production-ready ADK agents for web search, image generation, research, and more.</p>
     </div>
   </a>
+  <a href="https://github.com/google/esmeralda" class="resource-card">
+    <div class="card-image-wrapper">
+      <img src="../assets/community-esmeralda.jpg" alt="Esmeralda governed multi-agent blueprint">
+    </div>
+    <div class="card-content">
+      <div class="type">GitHub Repository</div>
+      <h3>📖 Governed Multi-Agent Platform on Google Cloud (Esmeralda)</h3>
+      <p>An open-source blueprint that runs an ADK orchestrator and an ADK A2A specialist on Agent Runtime, with private MCP tools, Agent Gateway and Agent Registry (Preview), and per-team token chargeback.</p>
+    </div>
+  </a>
 </div>
 
 ## ADK for Java
